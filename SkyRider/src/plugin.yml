@@ -1,0 +1,5 @@
+name: SkyRider
+main: com.hypothete.SkyRider.SkyRider
+version: 0.2
+load: startup
+
